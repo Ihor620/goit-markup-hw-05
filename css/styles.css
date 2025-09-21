@@ -756,7 +756,12 @@ li {
 }
 
 .modal-field {
-  margin-bottom: 24px;
+  margin-bottom: 8px;
+}
+
+.modal-field_comment {
+  margin-bottom: 16px;
+  position: relative;
 }
 
 .input-wrapper {
