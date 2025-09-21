@@ -804,8 +804,6 @@ li {
   line-height: 117%;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  display: inline-flex;
-  align-items: center;
   margin-bottom: 24px;
 }
 
