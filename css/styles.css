@@ -759,6 +759,10 @@ li {
   margin-bottom: 8px;
 }
 
+.modal-field_check {
+  margin-bottom: 24px;
+}
+
 .modal-field_comment {
   margin-bottom: 16px;
   position: relative;
@@ -793,13 +797,14 @@ li {
   border: none;
   fill: #f4f4fd;
 }
+
 .modal-check_label {
   font-weight: 400;
   font-size: 12px;
   line-height: 117%;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  display: flex;
+  display: inline-flex;
   align-items: center;
   margin-bottom: 24px;
 }
